@@ -34,8 +34,6 @@
 **<h3>My projects</h3>
 <a href="https://github.com/EmberEl/worldoftanks"> - Phone shop</a><br/>
 <a href="https://github.com/bebrochka1/TestTask"> - Product facility management API</a>
-
-<p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=bebrochka1&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
+user=bebrochka1&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
 </p>
 
