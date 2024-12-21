@@ -32,7 +32,7 @@
 </p>
 
 **<h3>My projects</h3>
-<a href="https://github.com/EmberEl/worldoftanks"> - Phone shop</a>
+<a href="https://github.com/EmberEl/worldoftanks"> - Phone shop</a><br/>
 <a href="https://github.com/bebrochka1/TestTask"> - Product facility management API</a>
 
 <p align="left">
